@@ -37,15 +37,36 @@ Features include:
 * Total TV Shows
 * Average Rating
 
+#### Executive Summary Preview
+![Summary](screenshots/summary.png)
+
+#### KPI Section Preview
+![KPI](screenshots/kpi.png)
+
+
+
 ### Genre Analysis
 
 * Most Popular Genres
 * Genre Distribution
 
+#### Genre Analysis Preview
+![Genre](screenshots/genres.png)
+
+
+
 ### Content Analysis
 
 * Movie vs TV Show Split
 * Year-wise Releases
+
+#### Trends Preview
+![Trends](screenshots/trends.png)
+
+#### Platform Comparison
+![Platform Comparison](screenshots/platform_comparison.png)
+
+
 
 ### Geographic Analysis
 
@@ -54,6 +75,11 @@ Features include:
 ### Rating Analysis
 
 * Content Rating Distribution
+
+#### All Dashboard Overview
+![Dashboard](screenshots/dashboard_overview.png)
+
+
 
 ## Key Insights
 
@@ -76,28 +102,6 @@ Features include:
 * Expand regional content offerings.
 * Focus on audience-preferred ratings categories.
 
-## Dashboard Preview
-
-#### Executive Summary
-![Summary](screenshots/summary.png)
-
-#### KPI Section
-![KPI](screenshots/kpi.png)
-
-#### Genre Analysis
-![Genre](screenshots/genres.png)
-
-#### Trends
-![Trends](screenshots/trends.png)
-
-#### Platform Comparison
-![Platform Comparison](screenshots/platform_comparison.png)
-
-#### All Dashboard Overview
-![Dashboard](screenshots/dashboard_overview.png)
-
-
 ## Author
 
-Sourav Singha |
-Data Analyst
+Sourav Singha | Data Analyst
